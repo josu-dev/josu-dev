@@ -33,3 +33,11 @@ A website for guessing the keyboard layout and language based on typing keys and
 ## Copy \<code>
 
 An extension for copying a snippet of code inside from a codeblock thats being hovered, being able to toggle on/of with a shortcut.
+
+## I interview
+
+A website/native app for making interviews with a set of questions on the street. The interviewer can select the questions to ask, the order, the time to answer, etc. The interviewee can see the questions, the time to answer, the time left, etc.
+
+## Self send
+
+A website for sharing files between devices on top of p2p. The user can select a file to share and a link is generated. The user can open the link on another device and download the file.

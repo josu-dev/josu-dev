@@ -15,12 +15,16 @@
 - [A webserver that never allocates](https://youtu.be/zMRfCZo8eAc)
 - [Practical Data Oriented Design](https://youtu.beIroPQ150F6c)
 - [The World Beyond Components](https://youtu.be/-CrsHsBZFg4)
+- [Plain Text](https://youtu.be/gd5uJ7Nlvvo)
+- [The Art of Code](https://youtu.be/6avJHaC3C2U)
+- [How JavaScript Happened: A Short History of Programming Languages](https://youtu.be/lWeLaEo4pn0)
 
 ## Talks (YT videos)
 
 - [Python Import System](https://youtu.be/QCSz0j8tGmI)
 - [Insecure Deserialization Attack Explained](https://youtu.be/jwzeJU_62IQ)
 - [Password Cracking](https://youtu.be/7U-RbOKanYs)
+- [Developer Excellence](https://youtu.be/96VlfN7ViyE)
 
 ## Programming
 
@@ -42,6 +46,7 @@
 - [Run Locally, Deploy Globally (AWS applications)](https://www.localstack.cloud/)
 - [API Client](https://www.usebruno.com/)
 - [ShellCheck (finds bugs in your shell scripts)](https://www.shellcheck.net/)
+- [sqlc](https://sqlc.dev/)
 
 ## SAAS
 
