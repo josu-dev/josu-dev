@@ -25,6 +25,8 @@
 - [Insecure Deserialization Attack Explained](https://youtu.be/jwzeJU_62IQ)
 - [Password Cracking](https://youtu.be/7U-RbOKanYs)
 - [Developer Excellence](https://youtu.be/96VlfN7ViyE)
+- [What "Follow Your Dreams" Misses](https://youtu.be/W3I3kAg2J7w)
+- [Don't ask AI to write your code](https://youtu.be/LxehKQ8HTL4)
 
 ## Programming
 
@@ -47,6 +49,8 @@
 - [API Client](https://www.usebruno.com/)
 - [ShellCheck (finds bugs in your shell scripts)](https://www.shellcheck.net/)
 - [sqlc](https://sqlc.dev/)
+- [ChartDB](https://app.chartdb.io/)
+- [JSON to TypeScript](https://transform.tools/json-to-typescript)
 
 ## SAAS
 
@@ -70,3 +74,5 @@
 - [QR Code Styling](https://qr-code-styling.com/)
 - [Excalidraw](https://excalidraw.com/)
 - [Awesome](https://github.com/sindresorhus/awesome)
+- [DroidCam](https://www.dev47apps.com/)
+- [Clipboard Inspector](https://evercoder.github.io/clipboard-inspector/)
