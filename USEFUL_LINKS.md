@@ -18,6 +18,8 @@
 - [Plain Text](https://youtu.be/gd5uJ7Nlvvo)
 - [The Art of Code](https://youtu.be/6avJHaC3C2U)
 - [How JavaScript Happened: A Short History of Programming Languages](https://youtu.be/lWeLaEo4pn0)
+- [Stepanov is an Inspiration](https://youtu.be/1QvkTKNgHJk)
+- [The Definition Of Insanity](https://youtu.be/I6SvnCYRm50)
 
 ## Talks (YT videos)
 

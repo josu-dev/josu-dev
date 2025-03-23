@@ -41,3 +41,5 @@ A website/native app for making interviews with a set of questions on the street
 ## Self send
 
 A website for sharing files between devices on top of p2p. The user can select a file to share and a link is generated. The user can open the link on another device and download the file.
+
+> **DONE**
