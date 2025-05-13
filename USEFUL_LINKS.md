@@ -29,6 +29,7 @@
 - [Developer Excellence](https://youtu.be/96VlfN7ViyE)
 - [What "Follow Your Dreams" Misses](https://youtu.be/W3I3kAg2J7w)
 - [Don't ask AI to write your code](https://youtu.be/LxehKQ8HTL4)
+- [Programming Loops vs Recursion](https://youtu.be/HXNhEYqFo0o)
 
 ## Programming
 
@@ -42,6 +43,7 @@
 - [Wappalyzer](https://www.wappalyzer.com/)
 - [Transform](https://transform.tools/)
 - [Regular expressions](https://regex101.com/)
+- [Regexr](https://regexr.com/)
 - [tints.dev (TailwindCSS color palette generator)](https://www.tints.dev/blue/3B82F6)
 - [Build your own <thing>](https://github.com/codecrafters-io/build-your-own-x)
 - [Free for Developers](https://free-for.dev/)
@@ -53,6 +55,7 @@
 - [sqlc](https://sqlc.dev/)
 - [ChartDB](https://app.chartdb.io/)
 - [JSON to TypeScript](https://transform.tools/json-to-typescript)
+- [Eruda (console for mobile browsers)](https://github.com/liriliri/eruda)
 
 ## SAAS
 
@@ -67,6 +70,7 @@
 - [Devicon](https://devicon.dev/)
 - [Lucide](https://lucide.dev/)
 - [Iconify](https://iconify.design/)
+- [Simple Icons](https://simpleicons.org/)
 - [All contributors](https://github.com/all-contributors/all-contributors)
 - [Dont ask to ask, just ask](https://dontasktoask.com/)
 - [KISS 💋](https://en.wikipedia.org/wiki/KISS_principle)
